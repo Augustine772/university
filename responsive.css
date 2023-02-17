@@ -25,6 +25,7 @@
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
+        text-align: left;
     }
 
     .nav-links ul{
