@@ -21,7 +21,6 @@ nav{
     position: fixed;
     z-index: 5;
     width: 85%;
-    backdrop-filter: blur(150px);
 
 }
 
