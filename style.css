@@ -20,6 +20,7 @@ nav{
     align-items: center;
     position: fixed;
     z-index: 5;
+    width: 80%;
 }
 
 nav img{
